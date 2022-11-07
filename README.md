@@ -1,4 +1,4 @@
-# MyFirstApp
+# angularAssignment_services
 
 Practicing working with services in Angular.
 
